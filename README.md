@@ -19,4 +19,4 @@ Linux, Windows, Bash, Python, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS
 2. [Резервное копирование](https://github.com/Kovandrey7/Backup-VK-YADisk) - резервноt копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск;
 
 ### Сертификаты обучения
-- [Python](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
+- [Python-разработчик](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
