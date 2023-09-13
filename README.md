@@ -16,7 +16,7 @@ Linux, Windows, Bash, Python, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS
 ### Мои проекты 
 
 1. [Дипломная работа VKinder](https://github.com/Kovandrey7/VKinder) - VK бот(аналог Tinder);
-2. [Резервное копирование](https://github.com/Kovandrey7/Backup-VK-YADisk) - резервноt копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск;
+2. [Резервное копирование](https://github.com/Kovandrey7/Backup-VK-YADisk) - резервное копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск;
 
 ### Сертификаты обучения
 - [Python-разработчик](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
