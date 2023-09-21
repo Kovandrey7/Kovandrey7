@@ -27,3 +27,4 @@ Linux, Windows, Bash, Python, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS
 
 ### Сертификаты обучения
 - [Python-разработчик](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
+- [Docker](https://github.com/Kovandrey7/Kovandrey7/blob/main/Docker.pdf)
