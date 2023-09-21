@@ -2,7 +2,7 @@
 Я **Андрей Коваль**, разработчик на Python.
 
 ### Мой стек
-Linux, Windows, Bash, Python, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS.
+Linux, Windows, Bash, Python, Flask, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS.
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
@@ -23,7 +23,8 @@ Linux, Windows, Bash, Python, PostgreSQL, Git, Docker, Docker-compose, HTML, CSS
    - [Requests](https://github.com/Kovandrey7/Mini-projects/blob/main/Requests.py);
    - [Database](https://github.com/Kovandrey7/Mini-projects/blob/main/database_hw.py);
    - [Read and open files](https://github.com/Kovandrey7/Mini-projects/tree/main/Work%20read%20and%20open%20file);
-   - [Python and database. ORM](https://github.com/Kovandrey7/Mini-projects/tree/main/Python%20ORM).
+   - [Python and database. ORM](https://github.com/Kovandrey7/Mini-projects/tree/main/Python%20ORM);
+5. [Задания, выполненные при изучении Docker](https://github.com/Kovandrey7/Docker);
 
 ### Сертификаты обучения
 - [Python-разработчик](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
