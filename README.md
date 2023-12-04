@@ -32,3 +32,4 @@ Linux, Windows, Bash, Python, Django, Django REST framework, Flask, PostgreSQL, 
 - [Python-разработчик](https://github.com/Kovandrey7/Kovandrey7/blob/main/python.pdf)
 - [Docker](https://github.com/Kovandrey7/Kovandrey7/blob/main/Docker.pdf)
 - [Django](https://github.com/Kovandrey7/Kovandrey7/blob/main/django.pdf)
+- [Stepik-Python](https://github.com/Kovandrey7/Kovandrey7/blob/main/stepik-python.pdf)
