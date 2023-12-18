@@ -6,7 +6,7 @@ Linux, Windows, Bash, Python, FastAPI, Aiogram, Django, Django REST framework, F
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastApi" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="flask" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
@@ -18,7 +18,7 @@ Linux, Windows, Bash, Python, FastAPI, Aiogram, Django, Django REST framework, F
 
 ### Мои проекты 
 
-1. [Телеграмм-бот](https://github.com/Kovandrey7/telegram_bot_current_rate) - Телеграмм-бот для получения курса доллара к рублю
+1. [Telegram-бот](https://github.com/Kovandrey7/telegram_bot_current_rate) - Telegram-бот для получения курса доллара к рублю
 2. [Дипломная работа VKinder](https://github.com/Kovandrey7/VKinder) - VK бот(аналог Tinder);
 3. [Резервное копирование](https://github.com/Kovandrey7/Backup-VK-YADisk) - резервное копирование фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск;
 4. [Камень, ножницы, бумага, ящерица, спок](https://github.com/Kovandrey7/Mini-projects/blob/main/%D0%98%D0%B3%D1%80%D0%B0%20%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%2C%20%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B%2C%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0%2C%20%D1%8F%D1%89%D0%B5%D1%80%D0%B8%D1%86%D0%B0%2C%20%D1%81%D0%BF%D0%BE%D0%BA.py) - Межгалактическая версия знаменитой игры в Камень-Ножницы-Бумага, которая стала популярной благодаря сериалу «Теория Большого взрыва». 
